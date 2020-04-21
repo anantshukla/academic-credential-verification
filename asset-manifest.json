@@ -1,7 +1,7 @@
 {
   "main.css": "/academic-credential-verification/static/css/main.6481217b.chunk.css",
-  "main.js": "/academic-credential-verification/static/js/main.163d0d19.chunk.js",
-  "main.js.map": "/academic-credential-verification/static/js/main.163d0d19.chunk.js.map",
+  "main.js": "/academic-credential-verification/static/js/main.564ae602.chunk.js",
+  "main.js.map": "/academic-credential-verification/static/js/main.564ae602.chunk.js.map",
   "static/css/1.afc6dc62.chunk.css": "/academic-credential-verification/static/css/1.afc6dc62.chunk.css",
   "static/js/1.be725b4f.chunk.js": "/academic-credential-verification/static/js/1.be725b4f.chunk.js",
   "static/js/1.be725b4f.chunk.js.map": "/academic-credential-verification/static/js/1.be725b4f.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/academic-credential-verification/static/js/runtime~main.697055fc.js.map",
   "static/media/login.svg": "/academic-credential-verification/static/media/login.9a76e74e.svg",
   "static/media/homepagewallpaper.png": "/academic-credential-verification/static/media/homepagewallpaper.77fdf036.png",
-  "static/css/1.afc6dc62.chunk.css.map": "/academic-credential-verification/static/css/1.afc6dc62.chunk.css.map",
   "static/css/main.6481217b.chunk.css.map": "/academic-credential-verification/static/css/main.6481217b.chunk.css.map",
+  "static/css/1.afc6dc62.chunk.css.map": "/academic-credential-verification/static/css/1.afc6dc62.chunk.css.map",
   "index.html": "/academic-credential-verification/index.html",
-  "precache-manifest.47e15c259bedd61b25498199e6eb2f37.js": "/academic-credential-verification/precache-manifest.47e15c259bedd61b25498199e6eb2f37.js",
+  "precache-manifest.01536adeeeeb860ee1964dbff50cc546.js": "/academic-credential-verification/precache-manifest.01536adeeeeb860ee1964dbff50cc546.js",
   "service-worker.js": "/academic-credential-verification/service-worker.js"
 }
