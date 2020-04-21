@@ -7814,17 +7814,17 @@
     "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
   },
   "networks": {
-    "42": {
-      "events": {},
-      "links": {},
-      "address": "0xdabcE3accc8D31f9C1AFc7B9192452371B8B3Db1",
-      "transactionHash": "0xf008d172bad67943db3b2872a3dd3ef116ad75ad38c9f2e274f667f9b38fe540"
-    },
     "5777": {
       "events": {},
       "links": {},
       "address": "0xaAa68582C24580eC4542a454F37140E3889f72Ac",
       "transactionHash": "0x5d07fe6fc528f0ce552eda6df2091570a5f6f6f6077400b1a8e69517bc68a254"
+    },
+    "42": {
+      "events": {},
+      "links": {},
+      "address": "0x4A80b0013f4c7c3eE2a19D82Bb0d43B1Eb912Dbf",
+      "transactionHash": "0x569d69cdc2032e684c6f572853ace5c1d6155c67e872a51e478bd2bd5ab1dbfb"
     }
   },
   "schemaVersion": "3.0.2",
