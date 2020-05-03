@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/academic-credential-verification/precache-manifest.01536adeeeeb860ee1964dbff50cc546.js"
+  "/academic-credential-verification/precache-manifest.e9551f89c5386cbab9f3052f9329c556.js"
 );
 
 workbox.clientsClaim();

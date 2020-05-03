@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "564ae602f30a779d8508",
-    "url": "/academic-credential-verification/static/css/main.6481217b.chunk.css"
+    "revision": "7ee7a84d613684a012e9",
+    "url": "/academic-credential-verification/static/css/main.04677a40.chunk.css"
   },
   {
-    "revision": "564ae602f30a779d8508",
-    "url": "/academic-credential-verification/static/js/main.564ae602.chunk.js"
+    "revision": "7ee7a84d613684a012e9",
+    "url": "/academic-credential-verification/static/js/main.7ee7a84d.chunk.js"
   },
   {
-    "revision": "be725b4fdbf083d68f45",
-    "url": "/academic-credential-verification/static/css/1.afc6dc62.chunk.css"
+    "revision": "3af32a86e33637c9cd0a",
+    "url": "/academic-credential-verification/static/css/1.d457c957.chunk.css"
   },
   {
-    "revision": "be725b4fdbf083d68f45",
-    "url": "/academic-credential-verification/static/js/1.be725b4f.chunk.js"
+    "revision": "3af32a86e33637c9cd0a",
+    "url": "/academic-credential-verification/static/js/1.3af32a86.chunk.js"
   },
   {
     "revision": "697055fc2286b747984c",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/academic-credential-verification/static/media/homepagewallpaper.77fdf036.png"
   },
   {
-    "revision": "fbdb08ba85c0260dc6335fc6a1dcf4ae",
+    "revision": "b6e32d7cb3d079e5efbaee84cf70c2ed",
     "url": "/academic-credential-verification/index.html"
   }
 ];
