@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "163d0d192b152a562432",
+    "revision": "564ae602f30a779d8508",
     "url": "/academic-credential-verification/static/css/main.6481217b.chunk.css"
   },
   {
-    "revision": "163d0d192b152a562432",
-    "url": "/academic-credential-verification/static/js/main.163d0d19.chunk.js"
+    "revision": "564ae602f30a779d8508",
+    "url": "/academic-credential-verification/static/js/main.564ae602.chunk.js"
   },
   {
     "revision": "be725b4fdbf083d68f45",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/academic-credential-verification/static/media/homepagewallpaper.77fdf036.png"
   },
   {
-    "revision": "2a194072ac0c29e5dfb0a3d4a84a37df",
+    "revision": "fbdb08ba85c0260dc6335fc6a1dcf4ae",
     "url": "/academic-credential-verification/index.html"
   }
 ];
